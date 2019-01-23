@@ -3,6 +3,13 @@ A trainable ,selfdriving "car" with pan til camera that can be control any where
 can be use as mobile patrol at home.
 can be set on auto pilot moode for navigation.
 
+# Features
+1.Access control in different region as long as with access to the internet
+2.Soloar powered communication and control system
+3.Wireless charging motro power system with wirless charging base station
+4.Pan til camera as mobile survillient tool
+5.Self driving
+
 # Overview:
 user use vnc to remote login to the pi and use TCP and send command to local host, at the same time 
 the car will send back live image to the car.
@@ -33,7 +40,7 @@ then by oxr the previoius control vector with the current one and find out the i
 
 Based on the key stauts update we can control the car accordingly
 
-## Data collection
+## Data Collection
 We will use pi camera to capture gray image and stamp the image with the current control status saved it in the data folder for later training.
 As mentioned in the TCP section , the sender will contionously sending packet at interval of 0.1 second so the camera will keep capture image with the current control label.
 
