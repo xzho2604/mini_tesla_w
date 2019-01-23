@@ -4,11 +4,11 @@ can be use as mobile patrol at home.
 can be set on auto pilot moode for navigation.
 
 # Features
-1.Access control in different region as long as with access to the internet
-2.Soloar powered communication and control system
-3.Wireless charging motro power system with wirless charging base station
-4.Pan til camera as mobile survillient tool
-5.Self driving
+1. Access control in different region as long as with access to the internet
+2. Soloar powered communication and control system
+3. Wireless charging motro power system with wirless charging base station
+4. Pan til camera as mobile survillient tool
+5. Self driving
 
 # Overview:
 user use vnc to remote login to the pi and use TCP and send command to local host, at the same time 
