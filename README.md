@@ -22,7 +22,7 @@ with control and the image use a neuro network to train the car for later self d
 
 
 Demo link:
-https://youtu.be/TO06dV4IT2A
+https://youtu.be/oaj1ktHsCYM
 
 ## TCP Socket:
 Sender will continously send the sender the current key pressed status and will use 'n' as dummy place holder just to make sure that even there is no key pressed , the client socket will still contious receing message so that the camera can continously capture the image and label it.
@@ -74,4 +74,10 @@ train: train CNN and save the model using the npz file
 
 
 
-![alt text](tesla_w_mini.jpg)
+![alt text](car1.jepg)
+![alt text](car2.jepg)
+## Car's view through pi camera
+![alt text](view.jpg)
+
+
+
