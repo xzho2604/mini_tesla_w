@@ -61,11 +61,11 @@ Like previously in the control section, we keep track of the previous control ve
 7. Try with wide angle camera
 
 ## Current File:
-auoto_pilot: revieve computed CNN model prediction from camera.py
-camera: receive image from pi cam through MJPEG and load model to predict command and send to auto_pilot
-send.py -> client.py: manually control the car through pygame
-load_data: translate the image with label into npz files 
-train: train CNN and save the model using the npz file
+* auoto_pilot: revieve computed CNN model prediction from camera.py
+* camera: receive image from pi cam through MJPEG and load model to predict command and send to auto_pilot
+* send.py -> client.py: manually control the car through pygame
+* load_data: translate the image with label into npz files 
+* train: train CNN and save the model using the npz file
 
 
 
