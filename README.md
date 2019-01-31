@@ -51,6 +51,16 @@ At intevel of 0.1 second will send the captured frame to the trained model and i
 Like previously in the control section, we keep track of the previous control vector and the current control vector to act control to the car accordingly.
 
 
+## To Do
+1. Training Data get stream through pi cam to MJPEG and the pc get the image and buffer into the np array and later saved into a npz file
+2. Modulisation: break code down into small functions and modules
+3. Better Training Set
+4. Fine Tunne CNN with ResNet?
+5. Pantil Camera
+6. Wireless Charging
+7. Try with wide angle camera
+
+
 
 
 
