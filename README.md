@@ -74,10 +74,10 @@ train: train CNN and save the model using the npz file
 
 
 
-![alt text](./image/car1.jpeg)
-![alt text](./image/car2.jpeg)
+![alt text](car1.jpeg)
+![alt text](car2.jpeg)
 ## Car's view through pi camera
-![alt text](./image/view.jpg)
+![alt text](view.jpg)
 
 
 
